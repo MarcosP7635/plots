@@ -1,0 +1,1 @@
+A,ELEM,Z,Decay Mode,Half-Life,Half-life Units,Rad. Type,Decay Energy (keV),Rad. Intensity (%)
